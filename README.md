@@ -153,7 +153,7 @@ Privacy-focused offline AI assistant designed for real-time conversations with c
 
 <td width="25%" align="center" valign="top">
   <br>
-  <img src="https://cdn.simpleicons.org/mastercard/EB001B" width="52" height="52" />
+  <img src="https://github.com/pikakshi01/pikakshi01/blob/main/assets/mastercard.png" width="52" height="52" />
   <br><br>
   <b>Cybersecurity Job Simulation – Mastercard</b>
   <br>
