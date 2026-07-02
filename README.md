@@ -2,13 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6D28D9,100:2563EB&height=200&section=header&text=Pikakshi%20Saroha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20%E2%80%A2%20Full-Stack%20Development%20%E2%80%A2%20Problem%20Solving&descAlignY=60&descSize=17" width="100%" />
 
-# Hi there, I'm Pikakshi Saroha
-
-### Cybersecurity • Full-Stack Development • Problem Solving
-
-Building secure, user-focused applications and exploring practical cybersecurity, web development, and problem solving.
-
 <br>
+
+<img src="https://raw.githubusercontent.com/pikakshi01/pikakshi01/main/assets/cyber-grid.gif" width="92%" alt="Cyber Grid Animation" />
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/pikakshi-saroha-9b40a9291/?skipRedirect=true" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -68,16 +66,13 @@ Building secure, user-focused applications and exploring practical cybersecurity
 
 ### **Precision • Curiosity • Consistency**
 
-<p align="center">
-  <sub><b>Good systems are built twice — once in thought, and once in code.</b></sub>
-</p>
+**Good systems are built twice — once in thought, and once in code.**
 
 </td>
 </tr>
 </table>
 
 </div>
-
 
 ---
 
