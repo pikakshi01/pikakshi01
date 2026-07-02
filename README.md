@@ -1,183 +1,226 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:38BDF8&height=240&section=header&text=Pikakshi%20Saroha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Product%20Engineering%20%7C%20System%20Design&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6D28D9,100:2563EB&height=220&section=header&text=Pikakshi%20Saroha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%E2%80%A2%20Full-Stack%20Development%20%E2%80%A2%20Problem%20Solving&descAlignY=58&descSize=18" width="100%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Product+Engineering+Enthusiast;Building+Scalable+Applications;System+Design+Learner;Clean+Code+%7C+Problem+Solving+%7C+Architecture" />
+# Hi there 👋 I'm Pikakshi Saroha
 
-</div>
+### Cybersecurity • Full-Stack Developer • Problem Solver
 
----
+Building secure, user-focused applications and exploring practical cybersecurity, web development, and problem solving.
 
-<div align="center">
+<br>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="850" />
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-```yaml
-Name: Pikakshi Saroha
-
-Role:
-  - Full-Stack Developer
-  - Product Engineering Enthusiast
-
-Focus Areas:
-  - Scalable Web Applications
-  - System Design
-  - Clean Software Architecture
-  - Problem Solving
-  - Frontend & Backend Development
-
-Tech Interests:
-  - High Performance Applications
-  - Backend Scalability
-  - Modern Web Technologies
-
-DSA:
-  - Solved 50+ Problems
-```
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/pikakshi-saroha-9b40a9291/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/pikakshi-saroha-9b40a9291/?skipRedirect=true" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<a href="https://leetcode.com/u/aS9j64BziC/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-</a>
-
-<a href="https://codeforces.com/" target="_blank">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
-</a>
-
+&nbsp;
 <a href="https://github.com/pikakshi01" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/aS9j64BziC/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
 
 </div>
 
 ---
 
-# ⚡ Tech Stack
+# 📊 Coding Profiles & Stats
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,cpp,python,git,github,vscode,linux,figma&theme=dark" />
+## 💻 LeetCode
 
-</div>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/aS9j64BziC?theme=dark&font=Baloo&ext=contest" />
+</p>
 
----
+</td>
+<td width="50%" valign="top">
 
-# 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pikakshi01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=60A5FA&text_color=F8FAFC" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pikakshi01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=38BDF8&text_color=FFFFFF"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikakshi01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=F8FAFC" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikakshi01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=pikakshi01&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=38BDF8&currStreakLabel=FFFFFF"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pikakshi01&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=38BDF8&point=FFFFFF"/>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pikakshi01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+## 📄 PortfolioWeb
+**Jul 2025 – Oct 2025**
 
-</div>
+Resume-based job recommendation platform matching student skills to relevant job roles.
+
+- Implemented **eligibility scoring**
+- Added **direct application links**
+- Built using Python and web technologies
+
+### ⚙️ Tech
+`Python` • `HTML` • `CSS` • `JavaScript`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🗺️ Zephyr
+**Mar 2025 – May 2025**
+
+Smart campus navigation system designed for real-time route guidance and location discovery.
+
+- Real-time route guidance
+- Smart search for campus places
+- Integrated Maps API for directions and location details
+
+### ⚙️ Tech
+`Figma` • `HTML` • `CSS` • `JavaScript` • `Maps JavaScript API` • `Directions API`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 🤖 NyxAI (Offline Assistant)
+**Jan 2026 – Apr 2026**
+
+Privacy-focused offline AI assistant designed for real-time conversations with contextual memory.
+
+- Contextual memory powered assistant
+- Lightweight chat interface using Flask and Ollama
+- Built without external APIs for offline usage
+
+### ⚙️ Tech
+`Python` • `Flask` • `Ollama` • `HTML` • `CSS` • `JavaScript` • `JSON`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📚 Current Focus
+
+- Cybersecurity fundamentals  
+- Web development & backend systems  
+- DSA and problem solving  
+- Building practical real-world projects  
+- Exploring AI-powered applications  
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 💻 LeetCode Stats
+# 🏆 Certifications & Achievements
 
-<div align="center">
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
 
-<img src="https://leetcard.jacoblin.cool/aS9j64BziC?theme=dark&font=Poppins&ext=contest"/>
+## 🧠 Generative AI
+**Generative AI with LangChain and Hugging Face**  
+Completed on **CloudxLab**
 
-</div>
+</td>
 
----
+<td width="25%" align="center" valign="top">
 
-# 🚀 Engineering Philosophy
+## 🛡️ Tata Job Simulation
+**Tata Cybersecurity Job Simulation**  
+Completed on **Forage**
 
-<div align="center">
+</td>
 
-```text
-Build scalable systems.
-Write clean and maintainable code.
-Focus on performance and architecture.
-Create products with impact.
-```
+<td width="25%" align="center" valign="top">
 
-</div>
+## 📧 Mastercard Job Simulation
+**Cybersecurity Job Simulation – Mastercard**  
+Phishing emails and email threat identification  
+Completed on **Forage**
 
----
+</td>
 
-# 🧠 Current Focus
+<td width="25%" align="center" valign="top">
 
-- Full-Stack Development
-- Scalable Backend Systems
-- System Design Concepts
-- DSA & Problem Solving
-- Production Ready Applications
+## 🤖 AI & Data Analytics
+**Artificial Intelligence & Data Analytics Workshop**
 
----
-
-# 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=pikakshi01&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
+# 🛠️ Tech Stack
 
-### ⭐ Code • Scale • Optimize • Repeat
+## 👩‍💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java&theme=dark" />
+</p>
 
-</div>
+## ⚙️ Frameworks / Libraries / Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask&theme=dark" />
+  <img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logo=ollama&logoColor=white" />
+</p>
+
+## 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=database&logoColor=white" />
+</p>
+
+## 🔧 Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,linux,vscode,idea&theme=dark" />
+</p>
+
+---
+
+# 🔥 GitHub Activity
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+### 📅 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pikakshi01&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C084FC&line=60A5FA&point=FFFFFF"/>
+
+</td>
+
+<td width="35%" valign="top">
+
+### ⚡ GitHub Streak
+<img src="https://streak-stats.demolab.com?user=pikakshi01&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=60A5FA&currStreakLabel=FFFFFF"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:7C3AED,100:0D1117&height=120&section=footer"/>
+### “Building secure systems, writing clean code, and turning ideas into practical products.”
 
 </div>
