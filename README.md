@@ -135,7 +135,7 @@ Privacy-focused offline AI assistant designed for real-time conversations with c
 
 <td width="25%" align="center" valign="top">
   <br>
-  <img src="https://github.com/pikakshi01/pikakshi01/blob/main/assets/genai-cert.png" width="64" />
+  <img src="https://raw.githubusercontent.com/pikakshi01/pikakshi01/main/assets/genai-cert.png" width="64" />
   <br><br>
   <b>Generative AI with LangChain and Hugging Face</b>
   <br><br>
@@ -153,7 +153,7 @@ Privacy-focused offline AI assistant designed for real-time conversations with c
 
 <td width="25%" align="center" valign="top">
   <br>
-  <img src="https://github.com/pikakshi01/pikakshi01/blob/main/assets/mastercard.png" width="52" height="52" />
+  <img src="https://raw.githubusercontent.com/pikakshi01/pikakshi01/main/assets/mastercard.png" width="52" height="52" />
   <br><br>
   <b>Cybersecurity Job Simulation – Mastercard</b>
   <br>
@@ -164,7 +164,7 @@ Privacy-focused offline AI assistant designed for real-time conversations with c
 
 <td width="25%" align="center" valign="top">
   <br>
-  <img src="https://github.com/pikakshi01/pikakshi01/blob/main/assets/ai-workshop.png" width="64" />
+  <img src="https://raw.githubusercontent.com/pikakshi01/pikakshi01/main/assets/ai-workshop.png" width="64" />
   <br><br>
   <b>Artificial Intelligence & Data Analytics Workshop</b>
   <br><br>
@@ -173,6 +173,26 @@ Privacy-focused offline AI assistant designed for real-time conversations with c
 
 </tr>
 </table>
+
+---
+
+# 💭 Developer Philosophy
+
+<div align="center">
+
+<table width="90%">
+<tr>
+<td align="center">
+
+### ✨ *"Your quote goes here."*
+
+<sub>Replace this line with your final quote / phrase / mindset statement.</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
