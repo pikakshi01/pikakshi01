@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6D28D9,100:2563EB&height=200&section=header&text=Pikakshi%20Saroha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20%E2%80%A2%20Full-Stack%20Development%20%E2%80%A2%20Problem%20Solving&descAlignY=60&descSize=17" width="100%" />
 
-# Hi there 👋 I'm Pikakshi Saroha
+# Hi there, I'm Pikakshi Saroha
 
-### Cybersecurity • Full-Stack Development • Problem Solver
+### Cybersecurity • Full-Stack Development • Problem Solving
 
 Building secure, user-focused applications and exploring practical cybersecurity, web development, and problem solving.
 
@@ -26,13 +26,13 @@ Building secure, user-focused applications and exploring practical cybersecurity
 
 ---
 
-# 📊 Coding Profiles & Stats
+# Coding Profiles & Stats
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-## 💻 LeetCode
+## LeetCode
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/aS9j64BziC?theme=dark&font=Baloo&ext=contest" width="95%" />
@@ -42,7 +42,7 @@ Building secure, user-focused applications and exploring practical cybersecurity
 
 <td width="50%" valign="top">
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pikakshi01&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="95%" />
@@ -58,13 +58,36 @@ Building secure, user-focused applications and exploring practical cybersecurity
 
 ---
 
-# 🚀 Featured Projects
+# Engineering Principles
+
+<div align="center">
+
+<table width="96%">
+<tr>
+<td align="center" style="padding: 22px 18px;">
+
+### **Precision • Curiosity • Consistency**
+
+<p align="center">
+  <sub><b>Good systems are built twice — once in thought, and once in code.</b></sub>
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+---
+
+# Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-## 📄 PortfolioWeb
+## PortfolioWeb
 **Jul 2025 – Oct 2025**
 
 Resume-based job recommendation platform matching student skills to relevant job roles.
@@ -73,14 +96,14 @@ Resume-based job recommendation platform matching student skills to relevant job
 - Implemented eligibility scoring for smarter role filtering  
 - Added direct application links using Python and web technologies  
 
-### ⚙️ Tech
+### Tech
 `Python` • `HTML` • `CSS` • `JavaScript`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🗺️ Zephyr
+## Zephyr
 **Mar 2025 – May 2025**
 
 Smart campus navigation system designed to simplify real-time route guidance and location discovery.
@@ -89,7 +112,7 @@ Smart campus navigation system designed to simplify real-time route guidance and
 - Integrated Maps JavaScript API and Directions API  
 - Built smart search and route-based location discovery  
 
-### ⚙️ Tech
+### Tech
 `Figma` • `HTML` • `CSS` • `JavaScript` • `Maps JavaScript API` • `Directions API`
 
 </td>
@@ -98,7 +121,7 @@ Smart campus navigation system designed to simplify real-time route guidance and
 <tr>
 <td width="50%" valign="top">
 
-## 🤖 NyxAI (Offline Assistant)
+## NyxAI (Offline Assistant)
 **Jan 2026 – Apr 2026**
 
 Privacy-focused offline AI assistant designed for real-time conversations with contextual memory.
@@ -107,14 +130,14 @@ Privacy-focused offline AI assistant designed for real-time conversations with c
 - Built contextual memory support using Ollama  
 - Developed a lightweight AI chat interface using Flask and local models  
 
-### ⚙️ Tech
+### Tech
 `Python` • `Flask` • `Ollama` • `HTML` • `CSS` • `JavaScript` • `JSON`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 💡 Current Focus
+## Current Focus
 
 - Cybersecurity fundamentals  
 - Full-stack web development  
@@ -128,7 +151,7 @@ Privacy-focused offline AI assistant designed for real-time conversations with c
 
 ---
 
-# 🏆 Certifications & Achievements
+# Certifications & Achievements
 
 <table width="100%">
 <tr>
@@ -176,59 +199,39 @@ Privacy-focused offline AI assistant designed for real-time conversations with c
 
 ---
 
-# 💭 Developer Philosophy
+# Tech Stack
 
-<div align="center">
-
-<table width="90%">
-<tr>
-<td align="center">
-
-### ✨ *"Your quote goes here."*
-
-<sub>Replace this line with your final quote / phrase / mindset statement.</sub>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 🛠️ Tech Stack
-
-## 👩‍💻 Languages
+## Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java&theme=dark" />
 </p>
 
-## ⚙️ Frameworks / Libraries
+## Frameworks / Libraries
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flask&theme=dark" />
   <img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logoColor=white" />
 </p>
 
-## 🗄️ Databases
+## Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
   <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=database&logoColor=white" />
 </p>
 
-## 🔧 Tools & Platforms
+## Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,figma,linux,vscode,idea&theme=dark" />
 </p>
 
 ---
 
-# 🔥 GitHub Activity
+# GitHub Activity
 
 <table width="100%">
 <tr>
 <td width="65%" valign="top">
 
-### 📅 Contribution Graph
+### Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pikakshi01&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
@@ -237,7 +240,7 @@ Privacy-focused offline AI assistant designed for real-time conversations with c
 
 <td width="35%" valign="top">
 
-### ⚡ GitHub Streak
+### GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pikakshi01&theme=tokyonight&hide_border=true" width="100%" />
 </p>
@@ -245,11 +248,3 @@ Privacy-focused offline AI assistant designed for real-time conversations with c
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-
-### “Building secure systems, writing clean code, and turning ideas into practical products.”
-
-</div>
