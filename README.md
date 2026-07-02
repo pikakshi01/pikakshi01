@@ -135,7 +135,7 @@ Privacy-focused offline AI assistant designed for real-time conversations with c
 
 <td width="25%" align="center" valign="top">
   <br>
-  <img src="YOUR_GENAI_IMAGE_LINK" width="64" />
+  <img src="https://github.com/pikakshi01/pikakshi01/blob/main/assets/genai-cert.png" width="64" />
   <br><br>
   <b>Generative AI with LangChain and Hugging Face</b>
   <br><br>
@@ -164,7 +164,7 @@ Privacy-focused offline AI assistant designed for real-time conversations with c
 
 <td width="25%" align="center" valign="top">
   <br>
-  <img src="YOUR_AI_WORKSHOP_IMAGE_LINK" width="64" />
+  <img src="https://github.com/pikakshi01/pikakshi01/blob/main/assets/ai-workshop.png" width="64" />
   <br><br>
   <b>Artificial Intelligence & Data Analytics Workshop</b>
   <br><br>
